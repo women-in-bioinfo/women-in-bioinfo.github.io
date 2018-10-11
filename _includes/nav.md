@@ -3,6 +3,6 @@
 </p>
 
 <p class="view">
-   <a href="{{code-of-conduct.txt | absolute_url}}" name="Code of Conduct">Code of Conduct</a>
+   <a href="{{ '/code-of-conduct.txt' | absolute_url }}" name="Code of Conduct">Code of Conduct</a>
 </p>
 
