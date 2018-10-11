@@ -17,7 +17,7 @@
 #
 title: Women in Bioinformatics Slack workspace
 description: A Slack group for women working in, near, or with bioinformatics
-#logo: [Location of the logo]
+#logo: images/logo.png
 show_downloads: false
 google_analytics: 'UA-127395528-1'
 github:
